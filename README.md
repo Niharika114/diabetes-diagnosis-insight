@@ -7,7 +7,7 @@
 ### **Project Vision**  
 This project was born from the desire to simplify the complexity of machine learning and deliver it through an intuitive, accessible web application. By integrating a robust predictive model with a modern React frontend, the tool aims to make healthcare analytics both understandable and user-friendly, turning advanced technology into an interactive learning experience.
 
-##Screenshot:
+Screenshot:
 ![Screenshot 2025-04-13 181144](https://github.com/user-attachments/assets/7b41d5a9-ae74-4869-b946-03f303518102)
 ![Screenshot 2025-04-13 181236](https://github.com/user-attachments/assets/d2a3b9fe-17ea-4ba2-a857-205cc759129f)
 ![Screenshot 2025-04-13 181722](https://github.com/user-attachments/assets/d3ff8377-00eb-4b49-8381-a6670f032d5f)
