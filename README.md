@@ -5,11 +5,6 @@ A modern web application that predicts whether a person is likely to have diabet
 
 ---
 
-## 🚀 Live Demo
-
-👉 [Live App](#) (optional)
-
----
 
 ## 🧰 Technologies Used
 
