@@ -94,10 +94,14 @@ npm run dev
 ---
 
 ## 📷 Screenshots
-![Screenshot 2025-04-13 181144](https://github.com/user-attachments/assets/abbbeb87-42ab-4ed4-a393-2404a51ef476)
 
 
-![image](https://github.com/user-attachments/assets/0a44e15a-f942-48df-baac-b74668434def)
+![Screenshot 2025-04-13 181144](https://github.com/user-attachments/assets/2a536394-fc99-406b-ad45-ad187275da8e)
+![Screenshot 2025-04-13 181236](https://github.com/user-attachments/assets/2d79c0b8-f03d-4ab5-90e6-8d5cc27c149f)
+![Screenshot 2025-04-13 181722](https://github.com/user-attachments/assets/78b4af66-6bb2-40b6-a2f1-eb4229bf3779)
+
+
+
 
 
 ---
